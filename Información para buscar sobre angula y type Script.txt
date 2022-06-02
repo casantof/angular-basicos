@@ -1,0 +1,28 @@
+Link para saber mas de type script
+
+https://stackblitz.com/edit/typescript-vxnz8z?file=index.ts
+
+https://www.typescriptlang.org/docs/handbook/basic-types.html
+
+https://www.typescriptlang.org/docs/handbook/decorators.html#class-decorators
+
+https://github.com/Klerith/curso-angular-intro-typescript-ecmascript
+
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+
+
+*********************************************************************************************************************************************
+													Documentación de Angular
+*********************************************************************************************************************************************
+Pagina para traer cosas de angular información
+angular.io
+
+https://angular.io/cli
+
+
+https://gist.github.com/Klerith/3ddee04a27c09be05e888d5d4ac1d09f
+
+projecto v0.1.0
+Aquí esta el codigo del profesor de las bases de angular
+
+
